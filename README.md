@@ -1,4 +1,4 @@
-# 👨‍💻 Ofentse | Software Engineer (.NET • TypeScript • Python)
+# Ofentse Pholosi | Software Engineer (.NET • TypeScript • Python)
 
 I build **scalable, data-driven systems** across backend and full-stack environments — with a focus on **real-world impact, system design, and practical intelligence**.
 
