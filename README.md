@@ -1,6 +1,81 @@
-# 💫 About Me:
-👨‍💻 C# .NET Developer passionate about crafting clean, scalable, and efficient solutions.<br><br>🖥️ Enthusiast in software architecture, containerization (Docker, Kubernetes), and cloud technologies (AWS).<br><br>📈 Interested in predictive modeling, data structures, algorithm optimization, and building smart, practical systems.<br><br>🎯 Focused on delivering value-driven applications — from robust backend services to intuitive UI with WPF and TypeScript.<br><br>🔍 Data-Analysis driven mindset, currently exploring business solutions enhancement using business and data analysis skills for making informed decision and solution optimization.<br><br>🚀 Advocate for purposeful technology — blending technical excellence with real-world impact.<br><br>🌱 Always learning — currently up-skilling in Data Engineering as a new discipline.<br><br>✨ Firm believer in thoughtful craftsmanship, critical thinking, and empowering innovation without unnecessary complexity.<br><br>📚 Balancing professional growth with a deep curiosity for meaningful, real-world applications of tech.<br><br>✝️ Firm believer of Christ Jesus, Our Lord and Saviour.
+# 👨‍💻 Ofentse | Software Engineer (.NET • TypeScript • Python)
 
+I build **scalable, data-driven systems** across backend and full-stack environments — with a focus on **real-world impact, system design, and practical intelligence**.
+
+---
+
+## 🚀 What I Do
+
+- 🧱 Engineer **full-stack applications** using .NET and TypeScript
+- ⚙️ Design **scalable backend systems and APIs**
+- ☁️ Deploy and manage services using **Docker, Kubernetes, and AWS**
+- 📊 Build **data-informed systems** and explore predictive modeling
+- 🧠 Apply **data structures and algorithmic thinking** to optimize performance
+
+---
+
+## 🧠 Current Focus
+
+- 📈 **MAPS (My Academic Pathway System)**  
+  A predictive platform that helps students identify suitable higher education opportunities based on academic performance.
+
+- 🐍 Expanding into **Python for Data Engineering & Analytics**  
+  Building data pipelines and working with structured datasets for insight generation.
+
+- ⚡ Advancing in **system design, scalability, and distributed thinking**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C#, TypeScript, Python
+
+**Backend**
+- .NET Core / ASP.NET Web API
+
+**Frontend**
+- TypeScript, WPF
+
+**DevOps & Cloud**
+- Docker, Kubernetes, AWS
+
+**Data**
+- SQL Server, Data Structures, Algorithm Optimization
+
+---
+
+## 📌 Featured Work
+
+👉 **MAPS (Flagship Project)**  
+> A data-driven system for guiding students toward optimal higher education pathways.
+
+- Backend-first architecture
+- Predictive recommendation logic (in progress)
+- Designed for scalability and real-world deployment
+
+*(Ensure this repo is clean, documented, and demonstrable — this is your strongest asset.)*
+
+---
+
+## 📈 Engineering Mindset
+
+- I think in **systems, not just features**
+- I prioritize **clarity, maintainability, and real-world usefulness**
+- I aim to bridge **backend engineering with data-driven decision making**
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 Open to **software engineering opportunities and impactful collaborations**
+- 🌍 Based in South Africa
+
+---
+
+## ✝️ Personal Note
+
+Driven by purpose, discipline, and faith — striving to build technology that genuinely serves people.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ofentse.pholosi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ofentse-pholosi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ofentse.pholosi@icloud.com) 
