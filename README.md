@@ -54,7 +54,6 @@ I build **scalable, data-driven systems** across backend and full-stack environm
 - Predictive recommendation logic (in progress)
 - Designed for scalability and real-world deployment
 
-*(Ensure this repo is clean, documented, and demonstrable — this is your strongest asset.)*
 
 ---
 
