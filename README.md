@@ -16,7 +16,7 @@ I build **scalable, data-driven systems** across backend and full-stack environm
 
 ##  Current Focus
 
--  **MAPS (My Academic Pathway System)**  
+-  **MAPS (www.mapsadvisory.co.za)**  
   A predictive platform that helps students identify suitable higher education opportunities based on academic performance.
 
 -  Expanding into **Python for Data Engineering & Analytics**  
