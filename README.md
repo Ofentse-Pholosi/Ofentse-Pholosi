@@ -25,6 +25,12 @@ I build **scalable, data-driven systems** across backend and full-stack environm
 -  Advancing in **system design, scalability, and distributed thinking**
 
 ---
+-  **Proper Cafe (www.propercafe.co.za)**  
+  Tech partner for Proper Cafe. Involved in building, shipping and maintaining Proper Cafe's web application that provides their online view and customer order and delivery system.
+
+-  Full-stack application based on C#.Net and Angular.
+
+-  Advancing in **system design, client relations, and partnership**
 
 ##  Tech Stack
 
