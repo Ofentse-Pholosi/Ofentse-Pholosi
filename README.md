@@ -25,7 +25,7 @@ I build **scalable, data-driven systems** across backend and full-stack environm
 -  Advancing in **system design, scalability, and distributed thinking**
 
 ---
-- **TechNest (www.technestsolutions.co.za)**  
+- **TIRELO (formerly TechNest) (www.technestsolutions.co.za)**  
  A tech services platform, repositioned from a consumer one-stop-shop toward being a tech partner for growing businesses. TechNest offers ongoing partnership around web presence ("Web & Growth") and device/IT reliability ("IT & Devices") to SMMEs.
 
 - Expanding into **Business Analysis and Enterpreneuship** 
