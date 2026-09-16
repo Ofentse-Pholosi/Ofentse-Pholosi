@@ -15,7 +15,16 @@ I build **scalable, data-driven systems** across backend and full-stack environm
 ---
 
 ##  Current Focus
+- **Shifta @ TIRELO Solutions**
 
+- **Role:** Director & Tech Lead
+
+- Building a multi-tenant SaaS platform that lets small businesses digitise their operations
+through a configurable mobile interface and secure customer-facing APIs — no custom build required.
+
+`C#` `.NET 10` `ASP.NET Core` `PostgreSQL` `AWS` `Terraform` `Clean Architecture` `CQRS`
+
+---
 -  **MAPS (www.mapsadvisory.co.za)**  
   A predictive platform that helps students identify suitable higher education opportunities based on academic performance.
 
