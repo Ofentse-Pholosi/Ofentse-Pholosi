@@ -41,13 +41,6 @@ through a configurable mobile interface and secure customer-facing APIs — no c
 
 -  Advancing in **system design, client relations, and partnership**
 
----
-
--  **Proper Cafe (www.propercafe.co.za)**  
-  Tech partner for Proper Cafe. Involved in building, shipping and maintaining Proper Cafe's web application that provides their online view and customer order and delivery system.
-
--  Full-stack application based on C#.Net and Angular.
-
 ##  Tech Stack
 
 **Languages**
