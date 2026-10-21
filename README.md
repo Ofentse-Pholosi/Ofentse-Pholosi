@@ -35,7 +35,7 @@ through a configurable mobile interface and secure customer-facing APIs — no c
 
 ---
 - **TIRELO (www.tirelosolutions.co.za)**  
- A tech services platform, repositioned from a consumer one-stop-shop toward being a tech partner for growing businesses. TechNest offers ongoing partnership around web presence ("Web & Growth") and device/IT reliability ("IT & Devices") to SMMEs.
+ A tech services platform, repositioned from a consumer one-stop-shop toward being a tech partner for growing businesses. TIRELO offers ongoing partnership around web presence ("Web & Growth") and device/IT reliability ("IT & Devices") to SMMEs.
 
 - Expanding into **Business Analysis and Enterpreneuship** 
 
